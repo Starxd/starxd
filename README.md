@@ -1,6 +1,3 @@
-### The whole truth is in beer 👋
-
-
 ## Languages and Tools  :fire:
 
 <img align="left" alt="assembly" width="40px" src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" >
